@@ -209,12 +209,17 @@ h1{
   font-size: 1.75em;
 }
 
+input{
+  border-style: dashed;
+  border-color: #000000;
+}
+
 li{
   padding-top: 1.25em;
 }
 /* ===== LAYOUT STYLES ====== */
 #email{
-  background-color: D3D3D3;
+  background-color: #D3D3D3;
 }
 
 input[type="checkbox"] + label[for="age-verification"]{
