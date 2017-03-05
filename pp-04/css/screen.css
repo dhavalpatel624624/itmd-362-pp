@@ -203,7 +203,27 @@ label {
   display: block;
 }
 
+h1{
+  padding-bottom: 1.5em;
+  padding-top: 1.25em;
+  font-size: 1.75em;
+}
+
+li{
+  padding-top: 1.25em;
+}
 /* ===== LAYOUT STYLES ====== */
+#email{
+  background-color: D3D3D3;
+}
+
+input[type="checkbox"] + label[for="age-verification"]{
+  display: inline;
+}
+
+label[for="email"] + input[type="email"]{
+  display: inline;
+}
 
 /* ===== MODULAR STYLES ===== */
 
