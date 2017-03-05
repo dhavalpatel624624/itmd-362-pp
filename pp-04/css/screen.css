@@ -196,6 +196,7 @@ html {
   line-height: 1.182em; /* 26px / ~ 120% */
   padding: 1.182em; /* 26px / ~ 120% */
   text-rendering: optimizeLegibility;
+  font-family: Calibri, sans-serif;
 }
 
 label {
@@ -207,4 +208,6 @@ label {
 /* ===== MODULAR STYLES ===== */
 
 /* ===== STATE STYLES ======= */
-
+html.wf-active{
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, sans-serif;
+}
