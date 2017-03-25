@@ -1,4 +1,4 @@
-## ITMD 362 Production Problem 5: Color Palettes
+﻿## ITMD 362 Production Problem 5: Color Palettes
 
 For this production problem, you’re going to create several custom color palettes on the site Paletton, http://paletton.com.
 
@@ -8,8 +8,8 @@ Opt for the Paletton Preview mode Default with Text; you can start at this URL i
 
 1. An adjacent color palette for introducing a new console gaming platform
 
-Your Palette URL:
-Your Rationale:
+Your Palette URL: http://paletton.com/#uid=34c1m1kBd-6fxP4ovFlCsmMMHbEkslsdcLMxkHvNuPjlKE81kslsdcLMxkHvNuPjlKE81
+Your Rationale: As a gamer, I personally get attracted to bright colors. All gaming controllers consist of the color red, blue, yellow and green. If there is a color that does get opted out, its always yellow. Also, this brings back the memories of Nintendo 64.
 
 2. A triadic color palette for announcing springtime tours at the Chicago Botanical Gardens
 
