@@ -20,8 +20,9 @@ Your Rationale:When its spring time, the common colors that come to mind are blu
 
 3. A triadic color palette for styling the login page for a private messaging app
 
-Your Palette URL:
-Your Rationale:
+Your Palette URL: http://paletton.com/#uid=43Y1h1ku+jorQpAs+mazXggG5cGkcz4j5Q8U8i50g83Ijz3akxvcIqBjHtAgiEC9aLY5PkaV2L427p6m3ieN2pir28
+
+Your Rationale: Black and gray represent the mystery and boldness. Blue represents loyalty and trust. Red represents excitement and curiousity.
 
 4. A monochromatic color palette for advertising a course on Ruby on Rails
 
