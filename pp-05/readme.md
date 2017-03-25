@@ -8,13 +8,15 @@ Opt for the Paletton Preview mode Default with Text; you can start at this URL i
 
 1. An adjacent color palette for introducing a new console gaming platform
 
-Your Palette URL: http://paletton.com/#uid=34c1m1kBd-6fxP4ovFlCsmMMHbEkslsdcLMxkHvNuPjlKE81kslsdcLMxkHvNuPjlKE81
+Your Palette URL: http://paletton.com/#uid=34c1m1kBd-6fxP4ovFlCsmMMHbEkslsdcLMxkHvNuPjlKE81kslsdcLMxkHvNuPjlKE81 
+
 Your Rationale: As a gamer, I personally get attracted to bright colors. All gaming controllers consist of the color red, blue, yellow and green. If there is a color that does get opted out, its always yellow. Also, this brings back the memories of Nintendo 64.
 
 2. A triadic color palette for announcing springtime tours at the Chicago Botanical Gardens
 
-Your Palette URL:
-Your Rationale:
+Your Palette URL:http://paletton.com/#uid=33X1l1ksFYPgaY-mHYLFHXSUVHxkRUu5NBZCWlL4MXnQJLhfksYmqiBuSoOrvz1huLAa+
+
+Your Rationale:When its spring time, the common colors that come to mind are blue and green for blue skies and green grass. The darkish red is represent roses or other flowers.
 
 3. A triadic color palette for styling the login page for a private messaging app
 
