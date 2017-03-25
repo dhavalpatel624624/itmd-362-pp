@@ -26,6 +26,7 @@ Your Rationale: Black and gray represent the mystery and boldness. Blue represen
 
 4. A monochromatic color palette for advertising a course on Ruby on Rails
 
-Your Palette URL:
-Your Rationale:
+Your Palette URL: http://paletton.com/#uid=15t1h0kIVjQK1tAIhohLIf7Qf9m
+
+Your Rationale: Ruby on Rails is a a red colored ruby which is a gem. And its a darker shade of red almost like a maroon.
 
