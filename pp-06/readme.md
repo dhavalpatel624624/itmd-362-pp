@@ -12,11 +12,15 @@ For this Production Problem, you and your group are going to establish your grou
 
 5. Each member of the group should fork the repository (including the group member whose account contains was used to create the GitHub organization for your project).
 
-Write the URL for your personal fork of the repository here:
+Write the URL for your personal fork of the repository here: https://github.com/dhavalpatel624624/Project2
 
 6. Each member of the group should clone their forked copy of the repository to his/her computer. Once you have cloned the forked copy, you should add the *group* repository as a second remote. Run `git remote add group` followed by the URL for your group’s repository.
 
-Write the output of `git remote -v` from your copy of the forked repository here:
+Write the output of `git remote -v` from your copy of the forked repository here: group   https://github.com/DDC-itmd362/Project2.git (fetch)
+group   https://github.com/DDC-itmd362/Project2.git (push)
+origin  https://github.com/dhavalpatel624624/Project2.git (fetch)
+origin  https://github.com/dhavalpatel624624/Project2.git (push)
+
 
 7. Finally, each group member should add to the `README.md` file his/her name, and a brief few sentences of what the member believes are his/her primary strengths. Prior to doing that, be sure to pull from the remote repo (`git pull group master`) to get any other group members’ names and strengths. Add and commit your own work, and push to your own repository (`git push origin master`).
 
