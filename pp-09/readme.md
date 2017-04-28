@@ -8,18 +8,18 @@ Usability checklists are typical, and sometimes mindless, tools/magic tricks use
 
 * URLs for the usability checklists you've found:
 
-1.
-2.
+1. http://www.businessknowhow.com/marketing/webchecklist.htm 
+2. http://www.keepitusable.com/keepitusable-mobile-app-usability-checklist.pdf
 
 * Your own condensed, ten-item must-have usability checklist:
 
-1.
-2.
-3.
-4.
-5.
-6.
-7.
-8.
-9.
-10.
+1. Easy to Navigate
+2. Minimalist design - excess features removed (removing irrelevant information from the site)
+3. Colours used provide good contrast and readability
+4. Icons are clear to understand - no ambiguity (proper icons for paying with Paypal, credit card, or bank)
+5. Error messages are free of technical language
+6. Can visitors quickly tell what you do when they land on your site?
+7. Is the design responsive so it looks good on tablets and smartphones too?
+8. Are most important elements of the site visible without scrolling up and down or side to side on a laptop screen?
+9. Number of links and buttons are reasonable
+10. Clear and consistent way to go back to every screen
